@@ -1,0 +1,15 @@
+.square-margin-logo {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  margin: 40px;
+  transform: rotate(45deg);
+}
+
+.square-margin-logo h1 {
+  color: white;
+  text-align: center;
+}
